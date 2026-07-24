@@ -1,6 +1,0 @@
-{
-  "name": "Spectr AI",
-  "description": "An AI chat application powered by Spectr AI.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
